@@ -1,0 +1,14 @@
+{
+    "name": "jw-territory-organizer-pro-pro",
+    "version": "0.1.0",
+    "description": "Simple tool to organize territories",
+    "require": {
+        "php": ">=7.0.0",
+        "phpoffice/phpspreadsheet": "^1.0",
+        "wp-coding-standards/wpcs": "*",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.4.3",
+        "cmb2/cmb2": "*",
+        "alexis-magina/cmb2-field-post-search-ajax": "*",
+        "composer/installers": "1.0"
+    }
+}
