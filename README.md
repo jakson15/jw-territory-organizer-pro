@@ -1,1 +1,1 @@
-# jw-territory-organizer-pro-pro
+# jw-territory-organizer
